@@ -1,0 +1,84 @@
+Name: Liam
+Burger Size: Medium
+Cost of the burger: 5 Credits
+*************************************
+Name: john
+Burger Size: Small
+Cost of the burger: 3 Credits
+*************************************
+Name: ollie
+Burger Size: Medium
+Cost of the burger: 5 Credits
+*************************************
+Name: pod
+Burger Size: Large
+Cost of the burger: 7 Credits
+*************************************
+Name: liam
+Burger Size: Small
+Cost of the burger: 3 Credits
+*************************************
+Name: jacob
+Burger Size: Medium
+Cost of the burger: 11 Credits
+*************************************
+Name: hanso
+Burger Size: Medium
+Cost of the burger: 9 Credits
+*************************************
+Name: jim
+Burger Size: Medium
+Cost of the burger: 6 Credits
+*************************************
+Name: brody
+Burger Size: Medium
+Cost of the burger: 6 Credits
+*************************************
+Name: popo
+Burger Size: Small
+Cost of the burger: 3 Credits
+*************************************
+Name: poli
+Burger Size: Small
+Cost of the burger: 4 Credits
+*************************************
+Name: yubbo
+Burger Size: Medium
+Cost of the burger: 5 Credits
+*************************************
+Name: tony
+Burger Size: Medium
+Cost of the burger: 5 Credits
+*************************************
+Name: pop
+Burger Size: Medium
+Cost of the burger: 5 Credits
+*************************************
+Name: uio
+Burger Size: Medium
+Cost of the burger: 5.5 Credits
+*************************************
+Name: jamie
+Burger Size: Large
+Cost of the burger: 11.85 Credits
+*************************************
+Name: boobies
+Burger Size: Medium
+Cost of the burger: 7.3 Credits
+*************************************
+Name: liam
+Burger Size: Medium
+Cost of the burger: 7.3 Credits
+*************************************
+Name: liam
+Burger Size: Medium
+Cost of the burger: 8.1 Credits
+*************************************
+Name: liam
+Burger Size: Medium
+Cost of the burger: 5.5 Credits
+*************************************
+Name: po
+Burger Size: Medium
+Cost of the burger: 5.5 Credits
+*************************************
